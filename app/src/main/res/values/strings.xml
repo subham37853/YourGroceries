@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YourGroceries</string>
+    <string name="Email">Email_Id</string>
+    <string name="enter_email">Email Id</string>
+    <string name="Password">Password</string>
+    <string name="Sign_In">Sign-In</string>
+    <string name="des_for_email">here you enter your email</string>
+    <string name="veggies_image">Veggies Image</string>
+</resources>
